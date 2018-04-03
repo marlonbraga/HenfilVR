@@ -1,0 +1,191 @@
+fileFormatVersion: 2
+guid: b9df861754c0119499f8970278c0c731
+timeCreated: 1510578438
+licenseType: Free
+ModelImporter:
+  serializedVersion: 21
+  fileIDToRecycleName:
+    100000: antena
+    100002: antena_01
+    100004: antena_02
+    100006: base_antena
+    100008: borda_01
+    100010: borda_tela
+    100012: botao_grp_01
+    100014: botao_grp_02
+    100016: botao_metal_01
+    100018: botao_metal_02
+    100020: caixa_madeira_01
+    100022: caixa_som
+    100024: canal_01
+    100026: canal_02
+    100028: metal_frente
+    100030: metal_preto_frente1
+    100032: pe_01
+    100034: pe_02
+    100036: pe_03
+    100038: pe_04
+    100040: seletor_01
+    100042: seletor_02
+    100044: tela
+    100046: //RootNode
+    400000: antena
+    400002: antena_01
+    400004: antena_02
+    400006: base_antena
+    400008: borda_01
+    400010: borda_tela
+    400012: botao_grp_01
+    400014: botao_grp_02
+    400016: botao_metal_01
+    400018: botao_metal_02
+    400020: caixa_madeira_01
+    400022: caixa_som
+    400024: canal_01
+    400026: canal_02
+    400028: metal_frente
+    400030: metal_preto_frente1
+    400032: pe_01
+    400034: pe_02
+    400036: pe_03
+    400038: pe_04
+    400040: seletor_01
+    400042: seletor_02
+    400044: tela
+    400046: //RootNode
+    2300000: antena_01
+    2300002: antena_02
+    2300004: base_antena
+    2300006: borda_01
+    2300008: borda_tela
+    2300010: botao_metal_01
+    2300012: botao_metal_02
+    2300014: caixa_madeira_01
+    2300016: caixa_som
+    2300018: canal_01
+    2300020: canal_02
+    2300022: metal_frente
+    2300024: metal_preto_frente1
+    2300026: pe_01
+    2300028: pe_02
+    2300030: pe_03
+    2300032: pe_04
+    2300034: seletor_01
+    2300036: seletor_02
+    2300038: tela
+    3300000: antena_01
+    3300002: antena_02
+    3300004: base_antena
+    3300006: borda_01
+    3300008: borda_tela
+    3300010: botao_metal_01
+    3300012: botao_metal_02
+    3300014: caixa_madeira_01
+    3300016: caixa_som
+    3300018: canal_01
+    3300020: canal_02
+    3300022: metal_frente
+    3300024: metal_preto_frente1
+    3300026: pe_01
+    3300028: pe_02
+    3300030: pe_03
+    3300032: pe_04
+    3300034: seletor_01
+    3300036: seletor_02
+    3300038: tela
+    4300000: canal_01
+    4300002: botao_metal_01
+    4300004: seletor_01
+    4300006: canal_02
+    4300008: botao_metal_02
+    4300010: seletor_02
+    4300012: base_antena
+    4300014: antena_01
+    4300016: antena_02
+    4300018: pe_01
+    4300020: pe_02
+    4300022: pe_03
+    4300024: pe_04
+    4300026: metal_preto_frente1
+    4300028: caixa_som
+    4300030: borda_01
+    4300032: caixa_madeira_01
+    4300034: metal_frente
+    4300036: borda_tela
+    4300038: tela
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
